@@ -13,11 +13,8 @@
 	border: 1px solid black;
 }
 
-.pixel {
-	width: 6.25%;
-	aspect-ratio: 1 / 1;
-}
-
-.dark {
-	background-color: black;
+.create {
+	margin: 0.5rem;
+	padding: 0.5rem 1rem;
+	float: right;
 }
