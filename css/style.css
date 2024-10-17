@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	height: 100vh;
+	aspect-ratio: 1 / 1;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+.pixel {
+	width: 6.25%;
+	aspect-ratio: 1 / 1;
+}
+
+.dark {
+	background-color: black;
+}
